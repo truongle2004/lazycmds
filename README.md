@@ -4,6 +4,10 @@
 
 It stores short executable command recipes and longer multi-step workflows so you can quickly find what to run and understand when to run it.
 
+## Demo
+
+https://github.com/user-attachments/assets/a9460d6f-b68c-4dcb-922e-86f500fe568b
+
 ## Run
 
 ```bash
